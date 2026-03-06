@@ -1,0 +1,12 @@
+# POE Smart Splitter — Path Configuration
+# =========================================
+# Copy this file to poe_config.txt and set the path below to your
+# Path of Exile log file. poe_config.txt is gitignored so your
+# personal drive paths are never uploaded.
+#
+# Typical locations:
+#   Steam default : C:\Program Files (x86)\Steam\steamapps\common\Path of Exile\logs\LatestClient.txt
+#   Custom library: D:\SteamLibrary\steamapps\common\Path of Exile\logs\LatestClient.txt
+#   Different drive: V:\SteamLibrary\steamapps\common\Path of Exile\logs\LatestClient.txt
+
+POE_LOG_PATH=C:\Program Files (x86)\Steam\steamapps\common\Path of Exile\logs\LatestClient.txt

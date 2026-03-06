@@ -1,0 +1,18 @@
+# ── Personal config (contains your local drive path — DO NOT commit) ──────────
+poe_config.txt
+
+# ── LiveSplit personal layout (hardcoded local paths, kept locally only) ──────
+POE.lsl
+
+# ── Runtime debug log ─────────────────────────────────────────────────────────
+asl_debug_log.txt
+*.log
+
+# ── Internal artifacts from previous work sessions ────────────────────────────
+*.resolved
+_POESmartSpliter_dev.asl
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+.pytest_cache/

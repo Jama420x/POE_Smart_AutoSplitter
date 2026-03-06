@@ -1,0 +1,1652 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Path of Exile</GameName>
+  <CategoryName>A5 Pts+Lab</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">PC</Platform>
+    <Region>
+    </Region>
+    <Variables>
+      <Variable name="Class">Scion</Variable>
+      <Variable name="Version">3.27 - Keepers</Variable>
+    </Variables>
+    <CustomVariables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>14</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="03/02/2026 20:00:07" isStartedSynced="True" ended="03/02/2026 20:00:10" isEndedSynced="True" />
+    <Attempt id="2" started="03/02/2026 20:00:53" isStartedSynced="True" ended="03/02/2026 20:02:23" isEndedSynced="True" />
+    <Attempt id="3" started="03/02/2026 20:02:57" isStartedSynced="True" ended="03/02/2026 20:04:24" isEndedSynced="True" />
+    <Attempt id="4" started="03/02/2026 21:39:27" isStartedSynced="True" ended="03/02/2026 21:44:22" isEndedSynced="True" />
+    <Attempt id="5" started="03/03/2026 15:38:17" isStartedSynced="True" ended="03/03/2026 15:38:32" isEndedSynced="True">
+      <RealTime>00:00:14.9073706</RealTime>
+    </Attempt>
+    <Attempt id="6" started="03/03/2026 15:38:37" isStartedSynced="True" ended="03/03/2026 15:38:43" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Act 1 - The Twilight Strand</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 1 - The Coast</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 1 - The Tidal Island</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 1 - The Mud Flats</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 1 - The Fetid Pool</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 1 - The Submerged Passage</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 1 - The Ledge</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 1 - The Climb</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 1 - The Lower Prison</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 1 - The Upper Prison</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 1 - Prisoner's Gate</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 1 - The Ship Graveyard</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 1 - The Ship Graveyard Cave</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 1 - The Cavern of Wrath</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 1 - The Cavern of Anger</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 2 - The Southern Forest</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 2 - The Old Fields</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 2 - The Crossroads</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 2 - The Chamber of Sins Level 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 2 - The Chamber of Sins Level 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 2 - The Broken Bridge</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 2 - The Fell Shrine Ruins</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 2 - The Crypt Level 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 2 - The Crypt Level 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 2 - The Riverways</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 2 - The Western Forest</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 2 - The Weaver's Chambers</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 2 - The Wetlands</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 2 - The Vaal Ruins</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 2 - The Northern Forest</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 2 - The Dread Thicket</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 2 - The Caverns</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 2 - The Ancient Pyramid</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 3 - The City of Sarn</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 3 - The Slums</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 3 - The Crematorium</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 3 - The Sewers</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 3 - The Marketplace</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 3 - The Catacombs</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 3 - The Battlefront</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 3 - The Docks</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 3 - The Solaris Temple Level 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 3 - The Solaris Temple Level 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 3 - The Ebony Barracks</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 3 - The Lunaris Temple Level 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 3 - The Lunaris Temple Level 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 3 - The Imperial Gardens</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 3 - The Library</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 3 - The Archives</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 3 - The Sceptre of God</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 3 - The Upper Sceptre of God</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 4 - The Aqueduct</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 4 - The Dried Lake</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 4 - The Mines Level 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 4 - The Mines Level 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 4 - The Crystal Veins</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 4 - Daresso's Dream</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 4 - The Grand Arena</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 4 - Kaom's Dream</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 4 - Kaom's Stronghold</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 4 - The Belly of the Beast Level 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 4 - The Belly of the Beast Level 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 4 - The Harvest</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 4 - The Ascent</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 5 - The Slave Pens</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 5 - The Control Blocks</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 5 - Oriath Square</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 5 - The Templar Courts</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 5 - The Chamber of Innocence</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 5 - The torched courts</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 5 - The Ossuary</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 5 - The Reliquary</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 5 - The Ruined Square</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 5 - The Cathedral Rooftop</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 6 - Lioneye's Watch</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 6 - The Twilight Strand</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 6 - The Coast</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 6 - The Tidal Island</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 6 - The Mud Flats</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 6 - The Karui Fortress</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 6 - The Ridge</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 6 - The Lower Prison</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 6 - Shavronne's Tower</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 6 - Prisoner's Gate</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 6 - The Western Forest</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 6 - The Riverways</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 6 - The Wetlands</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 6 - The Southern Forest</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 6 - The Cavern of Anger</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 6 - The Beacon</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 6 - The Brine King's Reef</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 7 - The Broken Bridge</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 7 - The Crossroads</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 7 - The Fell Shrine Ruins</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 7 - The Crypt</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 7 - The Chamber of Sins Level 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 7 - The Chamber of Sins Level 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 7 - The Den</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 7 - The Ashen Fields</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 7 - The Northern Forest</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 7 - The Dread Thicket</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 7 - The Causeway</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 7 - The Vaal City</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 7 - The Temple of Decay Level 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 7 - The Temple of Decay Level 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 8 - The Sarn Ramparts</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 8 - The Toxic Conduits</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 8 - Doedre's Cesspool</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 8 - The Grand Promenade</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 8 - The High Gardens</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 8 - The Bathhouse</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 8 - The Lunaris Concourse</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 8 - The Lunaris Temple Level 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 8 - The Lunaris Temple Level 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 8 - The Quay</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 8 - The Grain Gate</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 8 - The Imperial Fields</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 8 - The Solaris Concourse</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 8 - The Solaris Temple Level 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 8 - The Solaris Temple Level 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 8 - The Harbour Bridge</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 8 - The Hidden Underbelly</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 9 - The Blood Aqueduct</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 9 - The Descent</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 9 - The Vastiri Desert</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 9 - The Oasis</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 9 - The Foothills</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 9 - The Boiling Lake</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="5" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 9 - The Tunnel</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:05.8685787</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:00:05.8685787</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 9 - The Quarry</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.4985938</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:00:00.4985938</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 9 - The Refinery</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.3560950</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:00:00.3560950</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 9 - The Belly of the Beast</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.3489650</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:00:00.3489650</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 9 - The Rotting Core</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.6041861</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:00:00.6041861</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 10 - The Cathedral Rooftop</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.4519975</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:00:00.4519975</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 10 - The Ravaged Square</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.3948278</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:00:00.3948278</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 10 - The Torched Courts</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.3913851</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:00:00.3913851</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 10 - The Desecrated Chambers</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.5516433</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:00:00.5516433</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 10 - The Canals</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.4430941</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:00:00.4430941</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 10 - The Control Blocks</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.5541149</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:00:00.5541149</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 10 - The Reliquary</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.4777975</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:00:00.4777975</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 10 - The Ossuary</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.9606379</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:00:00.9606379</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Act 10 - The Feeding Trough</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:03.0054539</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:00:03.0054539</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
